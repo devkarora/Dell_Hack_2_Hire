@@ -1,0 +1,67 @@
+Commodity,Component,Supplier,Cost(in dollars),Supplier Performance Rating,Component Performance Rating
+i3,Part 1,Western Digital,129,5,6
+i3,Part 2,Samsung,135,7,7
+i3,Part 3,Intel,136,8,6
+i5,Part 4,Western Digital,179,6,7
+i5,Part 5,Samsung,187,5,7
+i5,Part 6,Intel,182,6,8
+i7,Part 7,Western Digital,365,7,4
+i7,Part 8,Samsung,345,8,6
+i7,Part 9,Intel,360,6,8
+i9,Part 10,Western Digital,485,6,5
+i9,Part 11,Samsung,500,8,9
+i9,Part 12,Intel,550,9,9
+RAM 1GB,Part 13,Western Digital,14,7,4
+RAM 1GB,Part 14,Samsung,16,8,7
+RAM 1GB,Part 15,Intel,13,5,5
+RAM 2GB,Part 16,Western Digital,19,7,6
+RAM 2GB,Part 17,Samsung,18,8,7
+RAM 2GB,Part 18,Intel,22,7,9
+RAM 4GB,Part 19,Western Digital,27,5,7
+RAM 4GB,Part 20,Samsung,30,9,8
+RAM 4GB,Part 21,Intel,40,5,6
+RAM 8GB,Part 22,Western Digital,48,8,8
+RAM 8GB,Part 23,Samsung,45,7,9
+RAM 8GB,Part 24,Intel,44,7,5
+KEEYBOARD SIMPLE,Part 25,Western Digital,10,7,5
+KEEYBOARD SIMPLE,Part 26,Samsung,11,8,7
+KEEYBOARD SIMPLE,Part 27,Intel,9,9,9
+KEYBOARF BACKLIT,Part 28,Western Digital,25,7,8
+KEYBOARF BACKLIT,Part 29,Samsung,30,9,8
+KEYBOARF BACKLIT,Part 30,Intel,27,8,9
+KEYBOARD SOFT TOUCH,Part 31,Western Digital,89,8,9
+KEYBOARD SOFT TOUCH,Part 32,Samsung,88,9,8
+KEYBOARD SOFT TOUCH,Part 33,Intel,85,9,9
+SCREEN 24,Part 34,Western Digital,140,3,7
+SCREEN 24,Part 35,Samsung,150,8,8
+SCREEN 24,Part 36,Intel,120,8,4
+SCREEN 23,Part 37,Western Digital,110,5,5
+SCREEN 23,Part 38,Samsung,115,6,7
+SCREEN 23,Part 39,Intel,113,8,7
+SCREEN 27,Part 40,Western Digital,210,7,6
+SCREEN 27,Part 41,Samsung,250,7,9
+SCREEN 27,Part 42,Intel,260,5,5
+MOUSE 3 CLICK,Part 43,Western Digital,8,8,8
+MOUSE 3 CLICK,Part 44,Samsung,7,7,9
+MOUSE 3 CLICK,Part 45,Intel,8,7,7
+MOUSE 5 CLICK,Part 46,Western Digital,12,3,7
+MOUSE 5 CLICK,Part 47,Samsung,13,4,8
+MOUSE 5 CLICK,Part 48,Intel,15,7,9
+GRAPHIC CARD 1GB,Part 49,Western Digital,50,6,6
+GRAPHIC CARD 1GB,Part 50,Samsung,49,5,7
+GRAPHIC CARD 1GB,Part 51,Intel,52,5,4
+GRAPHIC CARD 2GB,Part 52,Western Digital,97,5,5
+GRAPHIC CARD 2GB,Part 53,Samsung,100,6,6
+GRAPHIC CARD 2GB,Part 54,Intel,98,6,7
+GRAPHIC CARD 4GB,Part 55,Western Digital,179,8,8
+GRAPHIC CARD 4GB,Part 56,Samsung,185,8,7
+GRAPHIC CARD 4GB,Part 57,Intel,190,7,9
+HDD 500GB,Part 58,Western Digital,32,6,7
+HDD 500GB,Part 59,Samsung,35,7,9
+HDD 500GB,Part 60,Intel,33,6,7
+HDD 1TB,Part 61,Western Digital,45,6,7
+HDD 1TB,Part 62,Samsung,47,5,6
+HDD 1TB,Part 63,Intel,48,6,7
+HDD 2TB,Part 64,Western Digital,54,7,8
+HDD 2TB,Part 65,Samsung,53,8,7
+HDD 2TB,Part 66,Intel,59,8,9
